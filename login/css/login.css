@@ -1,0 +1,14 @@
+html,body.login{background:#f4645f;font: 13px 'Microsoft YaHei', Arial, Lucida Grande, Tahoma, sans-serif;color:#747f8c}    
+html a{text-decoration: none;}
+#particles-js{width: 100%;height: 100%;z-index:1}
+#login {background:#fff;width:400px;padding:40px 10px;border-radius:1px;box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.2);position: absolute;top: 50%;
+left: 50%;margin: -220px 0 0 -190px;}
+.login form .input, .login input[type=text]{margin-top:8px;}
+.login h1 a{width:400px;}
+.updated, .login .message {background:#fff;border: none;text-align: center;}   
+.login form {box-shadow:none;border: none;}   
+#loginform, #registerform, #lostpasswordform{background:transparent;border:none;}  
+.button-primary,.submit .button-primary,#login form .submit input {width:83px;height:25px;font-size:13px;color:#fff;border:none;background:#2376BC;cursor:pointer} 
+p#nav{float:left;margin: 0 !important;}
+p#backtoblog{float:right;margin: 0;}
+.login label,p#nav a,p#backtoblog{color:#747f8c}
